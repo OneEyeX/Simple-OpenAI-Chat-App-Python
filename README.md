@@ -15,7 +15,7 @@
     <img src="screenshots/python.png" alt="Logo"   height="100">
   </a>
 
-  <h3 align="center">Flask template</h3>
+  <h3 align="center">OpenAI Chat App</h3>
 
   <p align="center">
 It's a simple Python App for chatting with the AI.
