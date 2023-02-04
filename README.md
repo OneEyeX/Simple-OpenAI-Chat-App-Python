@@ -160,25 +160,25 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 Chedly Chahed - [@chedly_chahed](https://twitter.com/chedly_chahed) - **chedly.chahed@insat.u-carthage.tn**
 
-Project Link: [<https://github.com/OneEyeX/Flask-template>
-](https://github.com/OneEyeX/Flask-template
+Project Link: [<https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python.git>
+](https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python.git
 )
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!--  #reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Flask-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/OneEyeX/Flask-template/graphs/
-[forks-shield]: https://img.shields.io/github/forks/OneEyeX/Flask-template.svg?style=for-the-badge
-[forks-url]: https://github.com/OneEyeX/Flask-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/OneEyeX/Flask-template.svg?style=for-the-badge
-[stars-url]: https://github.com/OneEyeX/Flask-template/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Simple-OpenAI-Chat-App-Python.svg?style=for-the-badge
+[contributors-url]: https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python/graphs/
+[forks-shield]: https://img.shields.io/github/forks/OneEyeX/Simple-OpenAI-Chat-App-Python.svg?style=for-the-badge
+[forks-url]: https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python/network/members
+[stars-shield]: https://img.shields.io/github/stars/OneEyeX/Simple-OpenAI-Chat-App-Python.svg?style=for-the-badge
+[stars-url]: https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/OneEyeX/Flask-template/issues
-[license-shield]: https://img.shields.io/github/license/OneEyeX/Flask-template.svg?style=for-the-badge
-[license-url]: https://github.com/OneEyeX/Flask-template/LICENSE.md
+[issues-url]: https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python/issues
+[license-shield]: https://img.shields.io/github/license/OneEyeX/Simple-OpenAI-Chat-App-Python.svg?style=for-the-badge
+[license-url]: https://github.com/OneEyeX/Simple-OpenAI-Chat-App-Python/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed/
-[product-screenshot]: screenshots/a.png
+[product-screenshot]: screenshots/demo.png
 <div id="top"></div>
